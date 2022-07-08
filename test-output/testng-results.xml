@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-08T09:29:12 IST" name="Default suite" finished-at="2022-07-08T09:29:39 IST" duration-ms="27018">
+  <suite started-at="2022-07-08T09:58:33 IST" name="Default suite" finished-at="2022-07-08T09:58:37 IST" duration-ms="4010">
     <groups>
     </groups>
-    <test started-at="2022-07-08T09:29:12 IST" name="Default test" finished-at="2022-07-08T09:29:39 IST" duration-ms="27018">
-      <class name="com.bridgelabz.selenium.Registration">
-        <test-method signature="facebook()[pri:0, instance:com.bridgelabz.selenium.Registration@31d7b7bf]" started-at="2022-07-08T09:29:12 IST" name="facebook" finished-at="2022-07-08T09:29:39 IST" duration-ms="26973" status="PASS">
+    <test started-at="2022-07-08T09:58:33 IST" name="Default test" finished-at="2022-07-08T09:58:37 IST" duration-ms="4010">
+      <class name="com.bridgelabz.selenium.ExplictWait">
+        <test-method signature="explicttype()[pri:0, instance:com.bridgelabz.selenium.ExplictWait@31d7b7bf]" started-at="2022-07-08T09:58:33 IST" name="explicttype" finished-at="2022-07-08T09:58:37 IST" duration-ms="3952" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- facebook -->
-      </class> <!-- com.bridgelabz.selenium.Registration -->
+        </test-method> <!-- explicttype -->
+      </class> <!-- com.bridgelabz.selenium.ExplictWait -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
