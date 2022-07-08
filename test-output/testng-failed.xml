@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.bridgelabz.Locators.LocatorsXpath">
+      <class name="com.bridgelabz.selenium.Web_Element_Method">
         <methods>
-          <include name="page"/>
+          <include name="registration"/>
         </methods>
-      </class> <!-- com.bridgelabz.Locators.LocatorsXpath -->
+      </class> <!-- com.bridgelabz.selenium.Web_Element_Method -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

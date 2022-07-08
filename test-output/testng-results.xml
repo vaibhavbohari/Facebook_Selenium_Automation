@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-08T11:59:37 IST" name="Default suite" finished-at="2022-07-08T12:00:07 IST" duration-ms="30506">
+  <suite started-at="2022-07-08T13:43:20 IST" name="Default suite" finished-at="2022-07-08T13:44:01 IST" duration-ms="41689">
     <groups>
     </groups>
-    <test started-at="2022-07-08T11:59:37 IST" name="Default test" finished-at="2022-07-08T12:00:07 IST" duration-ms="30506">
-      <class name="com.bridgelabz.Locators.LocatorsXpath">
-        <test-method signature="page()[pri:0, instance:com.bridgelabz.Locators.LocatorsXpath@31d7b7bf]" started-at="2022-07-08T11:59:37 IST" name="page" finished-at="2022-07-08T12:00:07 IST" duration-ms="30436" status="PASS">
+    <test started-at="2022-07-08T13:43:20 IST" name="Default test" finished-at="2022-07-08T13:44:01 IST" duration-ms="41689">
+      <class name="com.bridgelabz.selenium.Web_Element_Method">
+        <test-method signature="registration()[pri:0, instance:com.bridgelabz.selenium.Web_Element_Method@31d7b7bf]" started-at="2022-07-08T13:43:20 IST" name="registration" finished-at="2022-07-08T13:44:01 IST" duration-ms="41627" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- page -->
-      </class> <!-- com.bridgelabz.Locators.LocatorsXpath -->
+        </test-method> <!-- registration -->
+      </class> <!-- com.bridgelabz.selenium.Web_Element_Method -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
