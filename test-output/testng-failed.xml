@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.bridgelabz.selenium.ImplicitWait">
+      <class name="com.bridgelabz.Locators.LocatorsXpath">
         <methods>
-          <include name="implicittype"/>
+          <include name="page"/>
         </methods>
-      </class> <!-- com.bridgelabz.selenium.ImplicitWait -->
+      </class> <!-- com.bridgelabz.Locators.LocatorsXpath -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
