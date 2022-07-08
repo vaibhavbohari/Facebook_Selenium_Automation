@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.bridgelabz.selenium.Registration">
+      <class name="com.bridgelabz.selenium.ImplicitWait">
         <methods>
-          <include name="facebook"/>
+          <include name="implicittype"/>
         </methods>
-      </class> <!-- com.bridgelabz.selenium.Registration -->
+      </class> <!-- com.bridgelabz.selenium.ImplicitWait -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
