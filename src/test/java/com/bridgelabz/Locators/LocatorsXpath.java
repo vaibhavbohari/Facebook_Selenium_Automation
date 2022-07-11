@@ -34,13 +34,13 @@ public class LocatorsXpath {
 		// starts-with
 		driver.findElement(By.xpath("//input[starts-with(@autocomplete,'new')]")).sendKeys("Vaib@0123");
 		Thread.sleep(2000);
-		//Relative xpath
+		// Relative xpath
 		driver.findElement(By.xpath("//select[@name='birthday_day']")).sendKeys("4");
 		Thread.sleep(2000);
-		//id
+		// id
 		driver.findElement(By.id("month")).sendKeys("Oct");
 		Thread.sleep(2000);
-		//name
+		// name
 		driver.findElement(By.name("birthday_year")).sendKeys("1997");
 		Thread.sleep(2000);
 		driver.findElements(By.name("sex")).get(1).click();

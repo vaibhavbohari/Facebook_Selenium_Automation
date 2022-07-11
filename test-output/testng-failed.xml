@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.bridgelabz.selenium.Web_Element_Method">
+      <class name="com.bridgelabz.webtable.WebTable">
         <methods>
-          <include name="registration"/>
+          <include name="WebTable_RowsCount"/>
+          <include name="WebTable_TotalNumber_Of_Cells"/>
+          <include name="Driver"/>
         </methods>
-      </class> <!-- com.bridgelabz.selenium.Web_Element_Method -->
+      </class> <!-- com.bridgelabz.webtable.WebTable -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
