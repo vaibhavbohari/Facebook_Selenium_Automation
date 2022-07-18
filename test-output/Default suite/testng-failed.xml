@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.bridgelabz.webtable.WebTable">
+      <class name="com.bridgelabz.autoit.AutoIt">
         <methods>
-          <include name="WebTable_RowsCount"/>
-          <include name="WebTable_TotalNumber_Of_Cells"/>
-          <include name="Driver"/>
+          <include name="auto_ItEx"/>
         </methods>
-      </class> <!-- com.bridgelabz.webtable.WebTable -->
+      </class> <!-- com.bridgelabz.autoit.AutoIt -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

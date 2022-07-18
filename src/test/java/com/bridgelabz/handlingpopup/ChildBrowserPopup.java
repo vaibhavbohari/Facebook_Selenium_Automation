@@ -1,4 +1,4 @@
-package com.broidgelabz.handlingpopup;
+package com.bridgelabz.handlingpopup;
 
 import java.util.Set;
 
