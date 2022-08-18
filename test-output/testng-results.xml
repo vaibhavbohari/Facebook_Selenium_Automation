@@ -1,121 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[beforeSuite]]>
-    </line>
-    <line>
-      <![CDATA[beforeTest]]>
-    </line>
-    <line>
-      <![CDATA[beforeClass]]>
-    </line>
-    <line>
-      <![CDATA[beforeMethod]]>
-    </line>
-    <line>
-      <![CDATA[afterMethod]]>
-    </line>
-    <line>
-      <![CDATA[beforeMethod]]>
-    </line>
-    <line>
-      <![CDATA[afterMethod]]>
-    </line>
-    <line>
-      <![CDATA[afterClass]]>
-    </line>
-    <line>
-      <![CDATA[afterTest]]>
-    </line>
-    <line>
-      <![CDATA[afterSuite]]>
-    </line>
   </reporter-output>
-  <suite started-at="2022-07-18T08:36:38 IST" name="Default suite" finished-at="2022-07-18T08:36:38 IST" duration-ms="118">
+  <suite started-at="2022-07-19T13:36:22 IST" name="Default suite" finished-at="2022-07-19T13:36:26 IST" duration-ms="3464">
     <groups>
     </groups>
-    <test started-at="2022-07-18T08:36:38 IST" name="Default test" finished-at="2022-07-18T08:36:38 IST" duration-ms="118">
-      <class name="com.bridgelabz.annotations.TestngAnnotations">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="beforeSuite" finished-at="2022-07-18T08:36:38 IST" duration-ms="20" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[beforeSuite]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="beforeTest" finished-at="2022-07-18T08:36:38 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[beforeTest]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="beforeClass" finished-at="2022-07-18T08:36:38 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[beforeClass]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="beforeMethod" finished-at="2022-07-18T08:36:38 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[beforeMethod]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="run()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="run" finished-at="2022-07-18T08:36:38 IST" duration-ms="11" status="PASS">
+    <test started-at="2022-07-19T13:36:22 IST" name="Default test" finished-at="2022-07-19T13:36:26 IST" duration-ms="3464">
+      <class name="com.brodgelabz.selectclass.ListBoxExample">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.brodgelabz.selectclass.ListBoxExample@619713e5]" started-at="2022-07-19T13:36:22 IST" name="initializeDriver" finished-at="2022-07-19T13:36:25 IST" duration-ms="2888" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- run -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="afterMethod" finished-at="2022-07-18T08:36:38 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[afterMethod]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="beforeMethod" finished-at="2022-07-18T08:36:38 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[beforeMethod]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="run1()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="run1" finished-at="2022-07-18T08:36:38 IST" duration-ms="3" status="PASS">
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="Print_NumberOfOccurranceOfElements_InListBox()[pri:0, instance:com.brodgelabz.selectclass.ListBoxExample@619713e5]" started-at="2022-07-19T13:36:25 IST" name="Print_NumberOfOccurranceOfElements_InListBox" finished-at="2022-07-19T13:36:26 IST" duration-ms="336" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- run1 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="afterMethod" finished-at="2022-07-18T08:36:38 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- Print_NumberOfOccurranceOfElements_InListBox -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.brodgelabz.selectclass.ListBoxExample@619713e5]" started-at="2022-07-19T13:36:26 IST" name="closeDriver" finished-at="2022-07-19T13:36:26 IST" duration-ms="162" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[afterMethod]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="afterClass" finished-at="2022-07-18T08:36:38 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[afterClass]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="afterTest" finished-at="2022-07-18T08:36:38 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[afterTest]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.bridgelabz.annotations.TestngAnnotations@3ce1e309]" started-at="2022-07-18T08:36:38 IST" name="afterSuite" finished-at="2022-07-18T08:36:38 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[afterSuite]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterSuite -->
-      </class> <!-- com.bridgelabz.annotations.TestngAnnotations -->
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.brodgelabz.selectclass.ListBoxExample -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

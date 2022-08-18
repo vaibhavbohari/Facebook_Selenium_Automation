@@ -123,6 +123,7 @@ public class ListBoxExample {
 		System.out.println(count);
 		System.out.println("-----print all the elements in the list ----");
 		HashSet<String> allElements = new HashSet<String>();
+		//Peint unique element puri is 2 times but print only one time
 		for (WebElement option : allOptions) {
 		String text = option.getText();
 		System.out.println(text);
